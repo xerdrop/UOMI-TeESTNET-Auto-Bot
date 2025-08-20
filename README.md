@@ -1,6 +1,6 @@
-# UOMI Testnet Auto Bot
+# UOMI Testnet Auto Bot 
 
-An automation tool for  token trading, liquidity management, and balance tracking on the **UOMI Testnet**.
+An automation tool for  token trading, liquidity management, and balance tracking on the **UOMI Testnet**
 
 ## ✨ Features
 
